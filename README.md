@@ -1,4 +1,3 @@
-#Proyecto Personal
 ## Predicción de precios de casas (Supervisado - Regresión)
 * Variables: metros_cuadrados, habitaciones, baños, ubicación, antigüedad
 * Objetivo: precio
